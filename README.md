@@ -2,6 +2,9 @@
 
 This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![mobile](https://github.com/miteshp98/fylo-landing-page-with-two-column-layout-master/assets/145320555/033c6892-9520-4184-9d08-f9b7d704003c)
+
+
 ## Table of contents
 
 - [Overview](#overview)
