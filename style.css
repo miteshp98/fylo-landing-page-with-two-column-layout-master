@@ -238,10 +238,13 @@ body {
   margin-top: 30px;
   color: var(--VeryDarkBlue);
   box-shadow: -1px 0px 8px 0px rgba(191, 191, 191, 0.3);
+  display: flex;
+  flex-direction: column;
 }
 
 .testimonal-cont > img {
   padding: 10px 0px;
+  width: 15px;
 }
 
 .image-name {
@@ -454,8 +457,11 @@ body {
   }
 
   .second-section-detail-container {
-    text-align: center;
     justify-content: center;
+  }
+
+  .second-section-detail-container > p {
+    text-align: center;
   }
 
   .second-section-detail-container > a {
@@ -489,8 +495,7 @@ body {
     padding: 20px 0px;
   }
 
-  
-.navigation {
+  .navigation {
     gap: 20px;
   }
 
@@ -498,11 +503,9 @@ body {
     padding: 25px 5px;
   }
 
-  
-.second-section-detail-container{
+  .second-section-detail-container {
     padding: 25px 5px;
   }
-  
 
   .third-section-detail-container {
     padding: 25px 5px;
